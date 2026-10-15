@@ -12,3 +12,13 @@ python greetings.py      # or: python3 greetings.py (Mac)
 
 - `greetings.py`: a few friendly functions (`greet`, `farewell`, `shout`, ...)
 - `motto.txt`: our lab motto
+
+## Author
+
+Your Name
+
+## What I learned
+
+- `git commit -m "..."`: save a snapshot of my work
+- `git revert`: undo a commit safely
+- `git pull`: get the latest changes from GitHub
