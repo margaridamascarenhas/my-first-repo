@@ -6,3 +6,6 @@ __pycache__/
 
 # Any file whose name ends in .log
 *.log
+
+# My own scratch notes
+scratch_notes.txt
