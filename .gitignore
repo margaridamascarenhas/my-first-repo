@@ -1,0 +1,8 @@
+# Secrets: never commit these
+secrets.txt
+
+# Files Python generates automatically
+__pycache__/
+
+# Any file whose name ends in .log
+*.log
