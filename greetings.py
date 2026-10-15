@@ -15,5 +15,3 @@ if __name__ == "__main__":
     print(farewell("World"))
     print(shout("World"))
     print(thank_you("World"))
-
-print("This line should not be here")
