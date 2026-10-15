@@ -1,1 +1,1 @@
-Our lab motto: never push on a Friday.
+Our lab motto: small commits, clear messages, and never push on a Friday.
